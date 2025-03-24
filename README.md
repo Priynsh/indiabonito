@@ -1,6 +1,6 @@
 # India Temperature and Humidity Visualization
 
-This project visualizes hourly temperature and relative humidity data for various cities in India. The data is displayed on an interactive map, and clicking on a city dot shows the corresponding temperature and humidity plots.
+This project visualizes hourly temperature and relative humidity data for various cities in India. The data is displayed on an interactive map, and clicking on a city dot shows the corresponding temperature and humidity plots. Using Bonito to serve the CSS and Javascript. 
 
 ## Features
 
